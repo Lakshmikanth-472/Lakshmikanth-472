@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lakshmikanth
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning engineering
+- 🌱 I’m engineering student 
 - 💞️ I’m looking to develop something new 
 - 📫 How to reach me @lakshmikanthbhat472@gmail.com
 
