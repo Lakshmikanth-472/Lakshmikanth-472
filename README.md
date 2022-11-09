@@ -9,4 +9,4 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Lakshmikanth-472&theme=radical)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmikanth-472)](https://github.com/Lakshmikanth-472/github-readme-stats)
