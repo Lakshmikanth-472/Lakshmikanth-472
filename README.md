@@ -8,3 +8,5 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Lakshmikanth-472&theme=radical)
 
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakshmikanth-472&show_icons=true&theme=radical)
+
+![Snake animation](https://github.com/Lakshmkanth-472/Lakshmikanth-472/blob/output/github-contribution-grid-snake.svg)
