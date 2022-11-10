@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
+
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -50,12 +50,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmikanth-472&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHMIKANTH-472&show_icons=true&theme=radical)
 ---
 
 ### :fire: My Stats :
+
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakshmikanth-472&show_icons=true&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Lakshmikanth-472&theme=radical)
