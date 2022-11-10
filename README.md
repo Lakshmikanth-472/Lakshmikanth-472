@@ -61,6 +61,6 @@ I am a Front end  Developer and app developer  from India.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Lakshmikanth-472&theme=radical)
 
-### :My contributions:
+### My contributions:
 ![snake gif](https://github.com/Lakshmikanth-472/Lakshmikanth-472/blob/output/github-contribution-grid-snake.gif)
 
