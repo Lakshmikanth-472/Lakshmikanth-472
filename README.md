@@ -27,7 +27,8 @@
 
 I am a Front end  Developer and app developer  from India.
 - :seedling: Exploring Technical Content Writing.
-- :mailbox:How to reach me: [![Lakshmikanth-472](https://img.shields.io/badge/-Lakshmikanth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmikanth-bhat-5118431b8/)
+- :mailbox:How to reach me: [![Lakshmikanth-472](https://img.shields.io/badge/-Click me-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmikanth-bhat-5118431b8/)
+- :Email:@lakshmikanthbhat472@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
