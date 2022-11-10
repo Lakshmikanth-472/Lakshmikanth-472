@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Front end  Developer and app developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Front end  Developer and app developer  from India.
 - :seedling: Exploring Technical Content Writing.
 - :mailbox:How to reach me: [![Lakshmikanth-472](https://img.shields.io/badge/-Lakshmikanth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmikanth-bhat-5118431b8/)
 ---
@@ -60,4 +60,7 @@ I am a Front end  Developer and app developer <img src="https://media.giphy.com/
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakshmikanth-472&show_icons=true&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Lakshmikanth-472&theme=radical)
+
+### :My contributions:
+![snake gif](https://github.com/Lakshmikanth-472/Lakshmikanth-472/blob/output/github-contribution-grid-snake.gif)
 
