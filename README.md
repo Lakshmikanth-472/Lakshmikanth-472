@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 I am a Front end  Developer and app developer  from India.
 - :seedling: Exploring Technical Content Writing.
